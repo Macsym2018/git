@@ -9,4 +9,6 @@ p{
 ul li {
     color: blueviolet;
     list-style:none;
+    font-weight: bold;
 }
+
