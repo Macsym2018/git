@@ -5,3 +5,8 @@
 p{
     color: brown;
 }
+
+ul li {
+    color: blueviolet;
+    list-style:none;
+}
